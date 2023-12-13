@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "id": "1",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -10,6 +11,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "2",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -19,6 +21,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "3",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -28,6 +31,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "4",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -37,6 +41,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "5",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -46,6 +51,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "6",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -55,6 +61,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "7"
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
@@ -64,6 +71,7 @@
       "Description":"BETASEAL® 16100H is a solvent-based silane blend type primer. BETASEAL® 16100H is a clear, one-step primer used to promote adhesion to glass and used in conjunction with an approved polyurethane adhesive"
     },
     {
+      "id": "8",
       "ManufactureName": "DuPont",
       "MaterialName":"BETASEAL® 16100H",
       "Ready to Use Product Type": "Primer, 1K (1 component) Coating, Solventborne Coating",
